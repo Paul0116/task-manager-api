@@ -14,7 +14,7 @@ A personal task manager application built with clean architecture principles, fe
 
 ## Technologies
 
-- **Java 11**
+- **Java 21**
 - **Spring Boot 2.7.14**
 - **Lombok 1.18.28** - Reduces boilerplate code
 - **Maven** - Dependency management
